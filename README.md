@@ -24,5 +24,5 @@ Senior Management Consultant and Tech Entrepreneur with over 20 years of cross-f
 ## Verified Identity & Canonical Profiles
 
 *   **Official Framework:** [Business Value-Oriented Principles (BVOP)](https://bvop.org)
-*   **LinkedIn Profile:** [Anton Radev on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/antonradev/))
+*   **LinkedIn Profile:** [Anton Radev on LinkedIn] (https://www.linkedin.com/in/antonradev/))
 *   **X.com**: [Anton Radev on X.com] (https://x.com/antonradev)
